@@ -1,0 +1,3 @@
+URL = "https://esam.ir"
+CATEGORIES = {"tools": "https://esam.ir/categories/486/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D9%88-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D8%A2%D9%84%D8%A7%D8%AA?cc=170000",
+              "Office Supplies": "https://esam.ir/categories/2395/%D8%AA%D9%84%D9%81%D9%86%D8%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%DB%8C?cc=220000"}
